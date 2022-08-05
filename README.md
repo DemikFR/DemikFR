@@ -1,5 +1,7 @@
 <!---
-Trabalho com dados e estudo programação :D
+Trabalho com dados e estudo programação a todo vapor.
+
+Aqui está os meus projetos e todas as suas atualizações.
 
 Meu LinkedIn:
 
