@@ -10,7 +10,13 @@ Para tal, rotineiramente uso as seguintes ferramentas: 🤔
   <img height="50" width="70" alt="CSS" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem-700x394.png" /> 
 </div><br>
 
-✍️ Eu sempre estou estudando para aprimorar as minhas habilidades e aumentar o meu conhecimento, assim, consigo atingir o meu objetivo de sempre, que é o meu crescimento pessoal e profissional. No momento, estou estudando principalmente...
+✍️ Eu sempre estou estudando para aprimorar as minhas habilidades e aumentar o meu conhecimento, assim, consigo atingir o meu objetivo de sempre, que é o meu crescimento pessoal e profissional. <br>
+
+<div align="center" style="display: inline_block;">
+  <img height="250" width="550" alt="Book to study" src="https://media.giphy.com/media/Ii3Oi0h2srCD7m0iX1/giphy.gif" />
+</div><br> 
+
+No momento, estou estudando principalmente...
 
 <div style="display: inline_block;">
   <img height="50" width="70" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
