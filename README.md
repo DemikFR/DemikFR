@@ -21,11 +21,10 @@ Para tal, rotineiramente uso as seguintes ferramentas: 🤔
 </div><br>     
 
 <h3>Meus contatos: 📧</h3>
-
 <div>
   <a href="https://www.linkedin.com/in/demik-freitas"><img height="40" width="60" alt="Linkedin" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="mailto:demik.freitast2d18@gmail.com"><img height="40" width="100" alt="Gmail" target="_blank" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" /></a>
- </div><br>
+ </div><br><br>
  
 <div align="center">
   <a href="https://github.com/DemikFR">
