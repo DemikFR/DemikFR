@@ -4,7 +4,7 @@ Atualmente trabalho com processamento de dados em uma empresa que desenvolve con
 Para tal, rotineiramente uso as seguintes ferramentas: 🤔
 
 <div style="display: inline_block;">
-  <img height="40" width="60" alt="SQL Server" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img height="40" width="60" alt="SQL Server" target="_blank" src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" />
   <img height="40" width="60" alt="HTML 5" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="40" width="60" alt="CSS" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="40" width="60" alt="CSS" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem-700x394.png" /> 
