@@ -1,7 +1,7 @@
-<h1>Olaaa, eu sou o Demik!! 👋<br></h1>
+<h1>Hellooo, i am Demik!! 👋<br></h1>
 
-Atualmente trabalho com processamento de dados em uma empresa que desenvolve concursos públicos e vestibulares. 🤩<br>
-Para tal, rotineiramente uso as seguintes ferramentas: 🤔
+I currently work with data processing in a company that develops selective processes for companies and public bodies. 🤩<br>
+I routinely use the following tools: 🤔
 
 <div style="display: inline_block;">
   <img height="50" width="70" alt="SQL Server" target="_blank" src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" />
@@ -10,13 +10,13 @@ Para tal, rotineiramente uso as seguintes ferramentas: 🤔
   <img height="50" width="70" alt="CSS" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem-700x394.png" /> 
 </div><br>
 
-✍️ Eu sempre estou estudando para aprimorar as minhas habilidades e aumentar o meu conhecimento, assim, consigo atingir o meu objetivo de sempre, que é o meu crescimento pessoal e profissional. <br>
+✍️ I'm always studying to improve my skills and increase my knowledge, so I can achieve my usual goal, which is my personal and professional growth. <br>
 
 <div align="center" style="display: inline_block;">
   <img height="250" width="550" alt="Book to study" src="https://media.giphy.com/media/Ii3Oi0h2srCD7m0iX1/giphy.gif" />
 </div><br> 
 
-No momento, estou estudando principalmente...
+At the moment, I'm mainly studying...
 
 <div style="display: inline_block;">
   <img height="50" width="70" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -26,7 +26,7 @@ No momento, estou estudando principalmente...
   <img height="50" width="70" alt="D3.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
 </div><br>     
 
-<h3>Meus contatos: 📧</h3>
+<h3>My contacts: 📧</h3>
 <div>
   <a href="https://www.linkedin.com/in/demik-freitas"><img height="50" width="70" alt="Linkedin" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="mailto:demik.freitast2d18@gmail.com"><img height="50" width="110" alt="Gmail" target="_blank" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" /></a>
