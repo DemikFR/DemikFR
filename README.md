@@ -1,6 +1,6 @@
 <h1>Hellooo, i am Demik!! 👋<br></h1>
 
-I currently work with data processing in a company that develops selective processes for companies and public bodies. 🤩<br>
+I currently work with data processing in a company that develops selective processes for public bodies. 🤩<br>
 I routinely use the following tools: 🤔
 
 <div style="display: inline_block;">
