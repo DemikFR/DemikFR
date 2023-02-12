@@ -3,7 +3,7 @@
 I currently work with data processing in a company that develops selective processes for public bodies. 🤩<br>
 I routinely use the following tools: 🤔
 
-<div style="display: inline_block; background-color: black;">
+<div style="display: inline_block; background-color: #000000;">
   <img height="50" width="70" alt="SQL Server" target="_blank" src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" />
   <img height="50" width="70" alt="HTML 5" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="50" width="70" alt="CSS" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -18,7 +18,7 @@ I routinely use the following tools: 🤔
 
 At the moment, I'm mainly studying...
 
-<div style="display: inline_block; background-color: black;">
+<div style="display: inline_block; background-color: #000000;">
   <img height="50" width="70" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="50" width="90" alt="Oracle SQL Developer" target="_blank" src="https://miro.medium.com/max/720/0*thHWKoWkDyr04Tju.png" />
   <img height="50" width="70" alt="Power BI" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" />
