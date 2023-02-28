@@ -4,7 +4,7 @@ I currently work with data processing in a company that develops selective proce
 I routinely use the following tools: 🤔
 
 <div style="display: inline_block; background-color: #000000;">
-  <img height="50" width="70" alt="SQL Server" target="_blank" src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" />
+  <img height="50" width="70" alt="SQL Server" target="_blank" src="https://i.imgur.com/T5M0afa.png" />
   <img height="50" width="70" alt="HTML 5" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="50" width="70" alt="CSS" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="50" width="70" alt="CSS" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem-700x394.png" /> 
