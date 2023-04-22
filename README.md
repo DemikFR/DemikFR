@@ -30,8 +30,9 @@ At the moment, I'm mainly studying...
 <div>
   <a href="https://www.linkedin.com/in/demik-freitas"><img height="50" width="70" alt="Linkedin" target="_blank"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="mailto:demik.freitast2d18@gmail.com"><img height="50" width="110" alt="Gmail" target="_blank" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" /></a>
+  <a href="https://www.reddit.com/user/DemikFRDW"><img height="50" width="50" alt="Gmail" target="_blank" src="https://user-images.githubusercontent.com/102700735/233758498-84540eee-c928-4a30-8a94-39c1c2d583f5.png" /></a>
  </div><br><br>
- 
+
 <div align="center">
   <a href="https://github.com/DemikFR">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DemikFR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
