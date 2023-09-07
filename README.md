@@ -1,30 +1,43 @@
 <h1>Hellooo, i am Demik!! 👋<br></h1>
 
-I currently work with data processing in a company that develops selective processes for public bodies. 🤩<br>
+I currently work as a data analyst in one of the biggest retail companies in Brazil. 🤩<br>
+
 I routinely use the following tools: 🤔
 
 <div style="display: inline_block; background-color: #000000;">
-  <img height="55" width="70" alt="SQL Server" target="_blank" src="https://i.imgur.com/T5M0afa.png" />
-  <img height="50" width="70" alt="HTML 5" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img height="50" width="70" alt="CSS" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img height="50" width="70" alt="CSS" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Emblem-700x394.png" /> 
+  <img height="60" width="100" alt="Oracle SQL Developer" target="_blank" src="https://miro.medium.com/max/720/0*thHWKoWkDyr04Tju.png" />
+  <img height="60" width="100" alt="Hive" target="_blank" src="https://hive.apache.org/images/hive.svg" /> 
+  <img height="60" width="100" alt="Haddop (HDFS)" target="_blank" src="https://hadoop.apache.org/hadoop-logo.jpg" /> 
+  <img height="60" width="90" alt="Power BI" target="_blank" src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-ac533c6/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" />
+</div><br>
+
+I have also had experience with data processing using the tools below: ✅ <br>
+
+
+<div style="display: inline_block; background-color: #000000;">
+  <img height="65" width="80" alt="SQL Server" target="_blank" src="https://i.imgur.com/T5M0afa.png" />
+  <img height="60" width="80" alt="HTML 5" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img height="60" width="80" alt="CSS" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img height="60" width="80" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div><br>
 
 ✍️ I'm always studying to improve my skills and increase my knowledge, so I can achieve my usual goal, which is my personal and professional growth. <br>
 
 <div align="center" style="display: inline_block;">
-  <img height="250" width="550" alt="Book to study" src="https://media.giphy.com/media/Ii3Oi0h2srCD7m0iX1/giphy.gif" />
+  <img height="280" width="580" alt="Book to study" src="https://media.giphy.com/media/Ii3Oi0h2srCD7m0iX1/giphy.gif" />
 </div><br> 
 
 At the moment, I'm mainly studying...
 
-<div style="display: inline_block; background-color: #000000;">
-  <img height="50" width="70" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height="50" width="90" alt="Oracle SQL Developer" target="_blank" src="https://miro.medium.com/max/720/0*thHWKoWkDyr04Tju.png" />
-  <img height="50" width="70" alt="Power BI" target="_blank" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" />
-  <img height="50" width="70" alt="Javascript" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50" width="70" alt="D3.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
-</div><br>     
+- Comunication
+- Business Intelligence
+- Advanced Statistics
+- Cloud tools
+- Predictive Analysis
+- Web Scraping
+- Ways to improve business using data
+
+<br>   
 
 <h3>My contacts: 📧</h3>
 <div>
