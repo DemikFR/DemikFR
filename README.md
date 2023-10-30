@@ -8,7 +8,7 @@ I routinely use the following tools: 🤔
   <img height="60" width="100" alt="Oracle SQL Developer" target="_blank" src="https://miro.medium.com/max/720/0*thHWKoWkDyr04Tju.png" />
   <img height="60" width="100" alt="Hive" target="_blank" src="https://hive.apache.org/images/hive.svg" /> 
   <img height="60" width="100" alt="Haddop (HDFS)" target="_blank" src="https://hadoop.apache.org/hadoop-logo.jpg" /> 
-  <img height="60" width="90" alt="Power BI" target="_blank" src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-ac533c6/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" />
+  <img height="60" width="90" alt="Power BI" target="_blank" src="https://info.railsentinel.co.uk/wp-content/uploads/2023/02/PowerBI-Logo-300x300.png" />
 </div><br>
 
 I have also had experience with data processing using the tools below: ✅ <br>
