@@ -6,8 +6,8 @@ I routinely use the following tools: 🤔
 
 <div style="display: inline_block; background-color: #000000;">
   <img height="60" width="100" alt="Oracle SQL Developer" target="_blank" src="https://miro.medium.com/max/720/0*thHWKoWkDyr04Tju.png" />
-  <img height="60" width="100" alt="Hive" target="_blank" src="https://hive.apache.org/images/hive.svg" /> 
-  <img height="60" width="100" alt="Haddop (HDFS)" target="_blank" src="https://hadoop.apache.org/hadoop-logo.jpg" /> 
+  <img height="60" width="100" alt="PySpark" target="_blank" src="https://image.pngaaa.com/116/5541116-middle.png" /> 
+  <img height="60" width="100" alt="Cloudera Impala" target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kNKelo5im0vkZjfUyA-8WloJ8MYC5RICsg&s" /> 
   <img height="60" width="90" alt="Power BI" target="_blank" src="https://info.railsentinel.co.uk/wp-content/uploads/2023/02/PowerBI-Logo-300x300.png" />
 </div><br>
 
